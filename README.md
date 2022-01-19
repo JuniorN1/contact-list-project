@@ -5,6 +5,7 @@
 
 #### start you can install to php, composer , docker and docker composer
 
+#### File log : /storage/logs/laravel.log 
 
 #### Run the commands after installing and configuring the environment
 
